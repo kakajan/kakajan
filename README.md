@@ -43,7 +43,7 @@ I’m a passionate technologist with over **18 years of experience** in building
 ## 📫 Get in Touch
 
 - 🌍 **Website**: [aytronic.ir](https://usher.ir)
-- 💼 **LinkedIn**: [usher-ir]([https://aytronic.ir](https://www.linkedin.com/in/usher-ir))
+- 💼 **LinkedIn**: [usher-ir](https://www.linkedin.com/in/usher-ir)
 - 📢 **Telegram**: [@usherArt](https://t.me/usherArt)
 
 ---
