@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ashirgholich Seyedmohammadi
+# Hi there! 👋 I'm AsherGhelich SeyedMohammadi
 
 Senior Full-stack Developer | Founder of **Aytronic** & **x-dev** | AI & Digital Transformation Consultant
 
