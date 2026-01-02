@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building and 
 
 ## 📊 GitHub Stats
 
-![Kakajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Kakajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakajan&show_icons=true)
 
 ## 📫 Get in Touch
 
